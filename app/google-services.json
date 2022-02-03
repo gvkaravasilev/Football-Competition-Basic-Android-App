@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079262111088",
+    "project_id": "footballcompetitionapp-d3770",
+    "storage_bucket": "footballcompetitionapp-d3770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079262111088:android:b974d1f3daef35f47f9bb5",
+        "android_client_info": {
+          "package_name": "com.example.footballcompetittionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079262111088-gck20odb53m6vo85qlvjj4300amhog7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB5rqfwoHEVTYkiFvFqLEp-pDurxJUvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079262111088-gck20odb53m6vo85qlvjj4300amhog7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
